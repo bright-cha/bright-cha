@@ -6,7 +6,7 @@ I'm currently studying at [SSAFY](https://ssafy.com) for a developer to wait.
 - 🌱 For senior developers!! [Today I learned](https://github.com/bright-cha/)  
 - 🐳 My MBTI is **ESTJ~**  
 - 🤙 This is my [Blog~](https://github.com/bright-cha/)
-- 💬 Give me Question [Click~](https://github.com/bright-cha/issues)
+- 💬 Give me Question [Click~](https://github.com/bright-cha/bright-cha/issues/new/choose)
 
 
 ---
