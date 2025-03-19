@@ -2,7 +2,6 @@
 **Welcome My Space!**  
 Hi there, I'm Bright-cha, a Repulic of korea  
 
-- 🌱 For senior developers!! [Today I learned](https://github.com/bright-cha/)  
 - 🐳 My MBTI is **ESTJ~**  
 - 💬 Give me Question [Click~](https://github.com/bright-cha/bright-cha/issues/new/choose)
 
